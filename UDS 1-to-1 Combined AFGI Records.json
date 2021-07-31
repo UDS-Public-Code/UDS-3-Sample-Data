@@ -15,7 +15,7 @@
     },
     "Trailer": {
         "NAIC Number": "12345",
-        "Recort Type": ["A", "F", "G", "I"],
+        "Record Type": ["A", "F", "G", "I"],
         "From State": "IN",
         "From Location": "99",
         "To State": "IN",
