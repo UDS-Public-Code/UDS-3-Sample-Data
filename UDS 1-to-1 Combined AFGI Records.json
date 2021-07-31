@@ -1,7 +1,12 @@
-[
+{
     "Header": {
         "NAIC Number": "12345",
-        "Record Type": ["A", "F", "G", "I"],
+        "Record Type": [
+            "A",
+            "F",
+            "G",
+            "I"
+        ],
         "From State": "IN",
         "From Location": "99",
         "To State": "IN",
@@ -15,7 +20,12 @@
     },
     "Trailer": {
         "NAIC Number": "12345",
-        "Record Type": ["A", "F", "G", "I"],
+        "Record Type": [
+            "A",
+            "F",
+            "G",
+            "I"
+        ],
         "From State": "IN",
         "From Location": "99",
         "To State": "IN",
@@ -38,7 +48,7 @@
     },
     "Records": [
         {
-            "Record Type": "A", 
+            "Record Type": "A",
             "NAIC Number": "12345",
             "File Location State": "IN",
             "File Location Code": "10",
@@ -93,10 +103,10 @@
             "Employer Work Phone Number": "(319)-555-1212",
             "Aggregate Policy Indicator": "U",
             "Deductible Policy Indicator": "N",
-            "Description of Injury":"Lorem ipsum dolor sit amet, blandit persecuti eu cum, ne usu magna delicata consulatu. Elitr aperiam aliquid at eam, eu integre tractatos pro, ut diam debitis eos. Pro sint nobis vitae cu. Atqui lucilius iudicabit qui in.\nIn verear vituperata mea, sea ea aperiri vulputate. Dicat accusata inciderint cum te, brute euismod iudicabit vim et. Id quodsi disputationi cum, et adipiscing incorrupte per. Ancillae detraxit in eum, usu exerci dicunt ex, bonorum appetere democritum nam an.\nEx zril cotidieque has, eum ex vero legimus, nam iudicabit instructior eu. Ei sed altera suscipiantur, ubique noster an sed. Mei ne putant nostrum, et has causae eripuit. Sale graece antiopam ea mel. Cu verear habemus dignissim duo, ei omnes tibique mei.\nPosse sonet qui ea, at nihil utinam maluisset sit. Nam posse intellegat ex, utamur probatus aliquando et per, mea oratio adolescens no. Mazim omnesque accusata eu has, ei quidam percipit interpretaris nam. Eius principes consequat no nec, graeci vivendo an sit, eum diam debitis explicari ut. His sint postea minimum ne. In modo alienum nec, mel sapientem forensibus te, ut audiam conclusionemque has.\nDoctus efficiendi per ei, duo ad altera tractatos urbanitas, sed posse viris erroribus id. Ea saepe omittam iracundia mel. Nec ex facer neglegentur, in has quot verterem voluptatibus. Vim purto menandri et. Sed oporteat sententiae at, at omnis nominavi nec, nam purto habemus ne. Sed laboramus instructior voluptatibus ad."
+            "Description of Injury": "Lorem ipsum dolor sit amet, blandit persecuti eu cum, ne usu magna delicata consulatu. Elitr aperiam aliquid at eam, eu integre tractatos pro, ut diam debitis eos. Pro sint nobis vitae cu. Atqui lucilius iudicabit qui in.\nIn verear vituperata mea, sea ea aperiri vulputate. Dicat accusata inciderint cum te, brute euismod iudicabit vim et. Id quodsi disputationi cum, et adipiscing incorrupte per. Ancillae detraxit in eum, usu exerci dicunt ex, bonorum appetere democritum nam an.\nEx zril cotidieque has, eum ex vero legimus, nam iudicabit instructior eu. Ei sed altera suscipiantur, ubique noster an sed. Mei ne putant nostrum, et has causae eripuit. Sale graece antiopam ea mel. Cu verear habemus dignissim duo, ei omnes tibique mei.\nPosse sonet qui ea, at nihil utinam maluisset sit. Nam posse intellegat ex, utamur probatus aliquando et per, mea oratio adolescens no. Mazim omnesque accusata eu has, ei quidam percipit interpretaris nam. Eius principes consequat no nec, graeci vivendo an sit, eum diam debitis explicari ut. His sint postea minimum ne. In modo alienum nec, mel sapientem forensibus te, ut audiam conclusionemque has.\nDoctus efficiendi per ei, duo ad altera tractatos urbanitas, sed posse viris erroribus id. Ea saepe omittam iracundia mel. Nec ex facer neglegentur, in has quot verterem voluptatibus. Vim purto menandri et. Sed oporteat sententiae at, at omnis nominavi nec, nam purto habemus ne. Sed laboramus instructior voluptatibus ad."
         },
         {
-            "Record Type": "F", 
+            "Record Type": "F",
             "NAIC Number": "12345",
             "File Location State": "IN",
             "File Location Code": "10",
@@ -171,4 +181,4 @@
             "File Type": "JPG"
         }
     ]
-]
+}
