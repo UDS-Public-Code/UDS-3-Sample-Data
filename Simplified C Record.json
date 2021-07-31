@@ -1,0 +1,80 @@
+{
+    "Meta": {
+        "NAIC Number": "12345",
+        "Record Type": "C",
+        "From State": "IN",
+        "From Location": "99",
+        "To State": "IN",
+        "To Code": "10",
+        "Batch Number": 1,
+        "Batch Prepared Date": 20210525,
+        "Batch From Date": 20210525,
+        "Batch Through Date": 20210525,
+        "Insurance Type": "P&C",
+        "Replacement File Indicator": "N",
+        "Record Count": 1,
+        "Transaction Total": 895011.7
+    },
+    "Records": [
+        {
+            "Insolvent Company Claim Number": "648-ah685503",
+            "Coverage Code": "965005",
+            "Policy Number": "VK807-289614",
+            "Receiver Claim Number": "51856461",
+            "Insured": [
+                {
+                    "Name #1": "Leonard",
+                    "Name #2": "Wendy"
+                }
+            ],
+            "Claimant": [
+                {
+                    "Claimant Number": "00001",
+                    "Name #1": "Hernandez",
+                    "Name #2": "Michael",
+                    "Address": {
+                        "Line 1": "89359 Parsons Fords",
+                        "Line 2": "",
+                        "City": "Caseymouth",
+                        "State": "NV",
+                        "Zip Code": "28406"
+                    }
+                }
+            ],
+            "Transaction Code": "100",
+            "Transaction Date": "19840323",
+            "Transaction Amount": 895011.7,
+            "Check Number": "45129852",
+            "Payee": {
+                "Name #1": "White",
+                "Name #2": "Amanda",
+                "Payee ID Indicator": "S",
+                "Payee ID Number": "337-07-4850"
+            },
+            "Catastrophic Loss Code": 283,
+            "Recovery Indicator Code": 7,
+            "Suit Indicator": "U",
+            "2nd Injury Fund Indicator": "N",
+            "Date of Loss": "19891031",
+            "Transaction Comment": "Also remember table doctor.",
+            "Expense Code": "17",
+            "WCIO Codes": {
+                "Injury Code": "17",
+                "Part of Body": "94",
+                "Nature of Injury": "35",
+                "Cause": "25",
+                "Act": "37",
+                "Type of Loss": "51",
+                "Type of Recovery": "58",
+                "Type of Coverage": "02",
+                "Type of Settlement": "30",
+                "Vocational Rehab": "54"
+            },
+            "TPA Claim Number": "290f55852",
+            "Long Claim Number": "",
+            "Service/Benefit From Date": "20210221",
+            "Service/Benefit Through Date": "20160317",
+            "Policy Deductible Indicator": "U"
+        }
+    ]
+}

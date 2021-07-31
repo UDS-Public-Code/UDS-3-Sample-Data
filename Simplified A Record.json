@@ -1,0 +1,88 @@
+{
+    "Meta": {
+        "NAIC Number": "12345",
+        "Record Type": "A",
+        "From State": "IN",
+        "From Location": "99",
+        "To State": "IN",
+        "To Code": "10",
+        "Batch Number": 2,
+        "Batch Prepared Date": 20210525,
+        "Batch From Date": 20210525,
+        "Batch Through Date": 20210525,
+        "Insurance Type": "P&C",
+        "Replacement File Indicator": "N",
+        "Record Count": 1,
+        "Transaction Total": 542409.41
+    },
+    "Records": [
+        {
+            "Insolvent Company Claim Number": "601-MA935338",
+            "Coverage Code": "305003",
+            "Policy Number": "Va999-900020",
+            "Receiver Claim Number": "04986201",
+            "Insured": [
+                {
+                    "First Name": "Peter",
+                    "Last Name": "Hampton",
+                    "Address": {
+                        "Line 1": "01718 Barbara Fields",
+                        "Line 2": "Apt 25945",
+                        "City": "Lake Raymond",
+                        "State": "IN",
+                        "Zip Code": "18658"
+                    }
+                }
+            ],
+            "Date of Loss": "19750805",
+            "Policy Effective Date": "19750531",
+            "Policy Expiration Date": "19760530",
+            "Claimant": [
+                {
+                    "Claimant Number": "00001",
+                    "First Name": "Jeffrey",
+                    "Last Name": "Humphrey",
+                    "Address": {
+                        "Line 1": "70841 Smith Mall",
+                        "Line 2": "",
+                        "City": "Leslieland",
+                        "State": "MI",
+                        "Zip Code": "18785",
+                    },
+                    "ID Indicator": "S",
+                    "ID Number": "326-83-8977",
+                    "Birth Date": "19980517"
+                }
+            ],
+            "Transaction Code": "100",
+            "Transaction Amount": 542409.41,
+            "Catastrophic Loss Code": 9233,
+            "Recovery Indicator Code": 6,
+            "Suit Indicator": "Y",
+            "2nd Injury Fund Indicator": "U",
+            "TPA Claim Number": "397a61148",
+            "Long Claim Number": "",
+            "Issuing Company Code": "",
+            "Servicing Office Code": "",
+            "Claim Report Date": "19751118",
+            "Repetitive Payment Indicator": "N",
+            "WCIO Codes": {
+                "Injury Code": "01",
+                "Part of Body": "23",
+                "Nature of Injury": "38",
+                "Cause": "99",
+                "Act": "56",
+                "Type of Loss": "31",
+                "Type of Recovery": "24",
+                "Type of Coverage": "80",
+                "Type of Settlement": "71",
+                "Vocational Rehab": "98"
+            },
+            "WCAB Number": "4444",
+            "Employer Work Phone Number": "440-015-8089x731",
+            "Aggregate Policy Indicator": "U",
+            "Deductible Policy Indicator": "N",
+            "Description of Injury": "Issue budget remember perhaps bill to interview. Hot force debate fall."
+        }
+    ]
+}
